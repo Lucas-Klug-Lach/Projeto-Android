@@ -140,7 +140,6 @@ main img.pequena{
 main img.custom{
     max-width: 350px;
     display: block;
-    margin: auto;
 }
 
 main > picture{
